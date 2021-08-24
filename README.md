@@ -1,6 +1,7 @@
 ### Hey there , I'm pspiagicw
 
-<img alt="GIF" align="right" src="https://raw.githubusercontent.com/pspiagicw/pspiagicw/master/gif3.gif" width="500"/>
+<img alt="GIF" src="https://raw.githubusercontent.com/pspiagicw/pspiagicw/master/gif3.gif" width="500"/>
+
 ```
 class pspiagicw:
 
@@ -17,13 +18,12 @@ class pspiagicw:
 			'editors': ['Vim','Emacs'],
 			'hobbies': ['F1 Racing' , 'Space Technology','Cricket']
         }
-
     def __str__(self):
         return self.name
-		
 if __name__ == '__main__':
     me = pspiagicw()
-		
+	
+	
 ```
 
 
