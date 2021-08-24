@@ -2,7 +2,7 @@
 
 <img alt="GIF" src="https://raw.githubusercontent.com/pspiagicw/pspiagicw/master/gif3.gif" width="500"/>
 
-```
+```python
 class pspiagicw:
 
         def __init__(self):
