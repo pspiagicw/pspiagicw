@@ -1,11 +1,11 @@
 ### Hi there
 
-<img alt="GIF" src="https://raw.githubusercontent.com/pspiagicw/pspiagicw/master/gif3.gif" width="500"/>
-```python
+<img alt="GIF" align="right"src="https://raw.githubusercontent.com/pspiagicw/pspiagicw/master/gif3.gif" width="500"/>
+```
 class RafnixG:
 
     def __init__(self):
-        self.name = 'pspiagicw'
+        self.username = 'pspiagicw'
         self.web = 'https://pspiagicw.github.io'
         self.code = {
 			'machinelearning': ['sckit-Learn','tensorflow','keras','opencv','pandas','numpy'],
