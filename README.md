@@ -5,23 +5,24 @@
 ```
 class pspiagicw:
 
-	def __init__(self):
-		self.username = 'pspiagicw'
-        self.web = 'https://pspiagicw.github.io'
-        self.code = {
-			'machinelearning': ['sckit-Learn','tensorflow','keras','opencv','pandas','numpy'],
-            'tools': ['Git', 'GitHub', 'GitLab', 'Jupyter Lab','Google Colab'],
-            'backend': ['Python', 'Flask', 'Django','C','System Programming'],
-            'database': ['MySQL', 'SQLite3', 'Mongo DB'],
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'React', 'Boostrap' , 'Android'],
-            'misc': ['TDD', 'ArchLinux','CyberSecurity','Haskell','Bash']
-			'editors': ['Vim','Emacs'],
-			'hobbies': ['F1 Racing' , 'Space Technology','Cricket']
-        }
+        def __init__(self):
+                self.username = 'pspiagicw'
+                self.web = 'https://pspiagicw.github.io'
+                self.code = {
+                        'machinelearning': ['sckit-Learn','tensorflow','keras','opencv','pandas','numpy'],
+                        'tools': ['Git', 'GitHub', 'GitLab', 'Jupyter Lab','Google Colab'],
+                        'backend': ['Python', 'Flask', 'Django','C','System Programming'],
+                        'database': ['MySQL', 'SQLite3', 'Mongo DB'],
+                        'frontend': ['HTML', 'CSS', 'JavaScript', 'React', 'Boostrap' , 'Android'],
+                        'misc': ['TDD', 'ArchLinux','CyberSecurity','Haskell','Bash'],
+                        'editors': ['Vim','Emacs'],
+                        'hobbies': ['F1 Racing' , 'Space Technology','Cricket']
+                }
+
     def __str__(self):
         return self.name
 if __name__ == '__main__':
-    me = pspiagicw()
+        me = pspiagicw()
 	
 	
 ```
