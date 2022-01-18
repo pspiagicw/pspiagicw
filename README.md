@@ -11,10 +11,10 @@ class pspiagicw:
                 self.code = {
                         'machinelearning': ['sckit-Learn','tensorflow','keras','opencv','pandas','numpy'],
                         'tools': ['Git', 'GitHub', 'GitLab', 'Jupyter Lab','Google Colab'],
-                        'backend': ['Python', 'Flask', 'Django','C','System Programming'],
-                        'database': ['MySQL', 'SQLite3', 'Mongo DB'],
-                        'frontend': ['HTML', 'CSS', 'JavaScript', 'React', 'Boostrap' , 'Android'],
-                        'misc': ['TDD', 'ArchLinux','CyberSecurity','Haskell','Bash'],
+                        'backend': ['Python','Go','System Programming' ],
+                        'database': ['MySQL', 'SQLite3'],
+                        'frontend': ['Futter' ],
+                        'misc': ['TDD' , 'Gentoo' ,'ArchLinux','CyberSecurity','Haskell','Bash' , 'Open Source Contributor'],
                         'editors': ['Vim','Emacs'],
                         'hobbies': ['F1 Racing' , 'Space Technology','Cricket']
                 }
