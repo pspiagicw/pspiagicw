@@ -38,6 +38,7 @@ Machine Learning Engineer by trade , but I am also a
 
 ### Uses
 
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
@@ -73,21 +74,19 @@ Machine Learning Engineer by trade , but I am also a
 - *Humble Pi*
 - *Grokking Machine Learning*
 
-
-
-
 ## _Some of my work_
 
 </br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pspiagicw&repo=qemantra&show_owner=true&theme=buefy)](https://github.com/pspiagicw/qemantra)
+[![Qemantra](https://github-readme-stats.vercel.app/api/pin/?username=pspiagicw&repo=qemantra&show_owner=true&theme=buefy)](https://github.com/pspiagicw/qemantra)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=catppuccin&repo=emacs&show_owner=true&theme=buefy)](https://github.com/catpuccin/emacs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dracula&repo=grub&show_owner=true&theme=buefy)](https://github.com/pspiagicw/boombash)
+[![Catpuccin Emacs](https://github-readme-stats.vercel.app/api/pin/?username=catppuccin&repo=emacs&show_owner=true&theme=buefy)](https://github.com/catpuccin/emacs)
+[![Dracula GRUB](https://github-readme-stats.vercel.app/api/pin/?username=dracula&repo=grub&show_owner=true&theme=buefy)](https://github.com/dracula/grub)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pspiagicw&repo=boombash&show_owner=true&theme=buefy)](https://github.com/pspiagicw/boombash)
+[![BoomBash](https://github-readme-stats.vercel.app/api/pin/?username=pspiagicw&repo=boombash&show_owner=true&theme=buefy)](https://github.com/pspiagicw/boombash)
+[![Textify](https://github-readme-stats.vercel.app/api/pin/?username=pspiagicw&repo=textify&show_owner=true&theme=buefy)](https://github.com/pspiagicw/textify)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pspiagicw&repo=machine-learning-showcase&show_owner=true&theme=buefy)](https://github.com/pspiagicw/machine-learning-showcase)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pspiagicw&repo=machine-learning-showcase&show_owner=true&theme=buefy)](https://github.com/pspiagicw/machine-learning-showcase) -->
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=pspiagicw&include_all_commits=true&count_private=true&show_icons=true&hide=commits&theme=buefy)](https://github.com/pspiagicw)
 
