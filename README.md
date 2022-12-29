@@ -18,7 +18,7 @@
 </center>
 
 I am a self-taught programmer/coder who enjoys the art of programming a little too much.
-Have collected a lot of knowledge along the way and might dump it on you!
+
 
 Machine Learning Engineer by trade , but I am also a
 
@@ -48,14 +48,12 @@ Machine Learning Engineer by trade , but I am also a
 
 ###  Loves
 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Adores
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ### Dabbles
@@ -70,38 +68,22 @@ Machine Learning Engineer by trade , but I am also a
 
 ## Currently Reading
 
-- *Writing a Interpreter in Golang*
-- *Humble Pi*
-- *Grokking Machine Learning*
+- *Writing a Compiler in Golang*
+- *Engineering a Compiler*
 
 ## _Some of my work_
 
 </br>
 
-[![Qemantra](https://github-readme-stats.vercel.app/api/pin/?username=pspiagicw&repo=qemantra&show_owner=true&theme=buefy)](https://github.com/pspiagicw/qemantra)
-
-[![Catpuccin Emacs](https://github-readme-stats.vercel.app/api/pin/?username=catppuccin&repo=emacs&show_owner=true&theme=buefy)](https://github.com/catpuccin/emacs)
-[![Dracula GRUB](https://github-readme-stats.vercel.app/api/pin/?username=dracula&repo=grub&show_owner=true&theme=buefy)](https://github.com/dracula/grub)
-
-[![BoomBash](https://github-readme-stats.vercel.app/api/pin/?username=pspiagicw&repo=boombash&show_owner=true&theme=buefy)](https://github.com/pspiagicw/boombash)
-[![Textify](https://github-readme-stats.vercel.app/api/pin/?username=pspiagicw&repo=textify&show_owner=true&theme=buefy)](https://github.com/pspiagicw/textify)
+[![qemantra](https://github-readme-stats.vercel.app/api/pin/?username=pspiagicw&repo=qemantra&show_owner=true&theme=buefy)](https://github.com/pspiagicw/qemantra)
+[![groom](https://github-readme-stats.vercel.app/api/pin/?username=golang-groom&repo=groom&show_owner=true&theme=buefy)](https://github.com/pspiagicw/qemantra)
+[![boombash](https://github-readme-stats.vercel.app/api/pin/?username=pspiagicw&repo=boombash&show_owner=true&theme=buefy)](https://github.com/pspiagicw/boombash)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pspiagicw&repo=machine-learning-showcase&show_owner=true&theme=buefy)](https://github.com/pspiagicw/machine-learning-showcase) -->
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=pspiagicw&include_all_commits=true&count_private=true&show_icons=true&hide=commits&theme=buefy)](https://github.com/pspiagicw)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pspiagicw&layout=compact&hide=html,css,Jupyter%20Notebook&langs_count=5&theme=buefy)](https://github.com/pspiagicw/github-readme-stats)
-
-## *Contact*
-
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-
-![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-
 
 <div align="center">
 
