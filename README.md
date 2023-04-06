@@ -12,7 +12,6 @@
 
 ```sh
 ssh git.pspiagicw.xyz
-
 ```
 	
 </div>
