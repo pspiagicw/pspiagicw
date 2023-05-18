@@ -10,10 +10,6 @@
 <img alt="GIF" src="https://raw.githubusercontent.com/pspiagicw/pspiagicw/master/gif3.gif" width="500"/>
 
 
-```sh
-ssh git.pspiagicw.xyz
-```
-	
 </div>
 
 
@@ -83,6 +79,9 @@ Machine Learning Engineer by trade , but I am also a
 [![qemantra](https://github-readme-stats.vercel.app/api/pin/?username=pspiagicw&repo=qemantra&show_owner=true&theme=buefy)](https://github.com/pspiagicw/qemantra)
 [![groom](https://github-readme-stats.vercel.app/api/pin/?username=golang-groom&repo=groom&show_owner=true&theme=buefy)](https://github.com/pspiagicw/qemantra)
 [![boombash](https://github-readme-stats.vercel.app/api/pin/?username=pspiagicw&repo=boombash&show_owner=true&theme=buefy)](https://github.com/pspiagicw/boombash)
+
+
+Some of my work may also be found on my personal gitea [instance](https://cloud.pspiagicw.xyz)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pspiagicw&repo=machine-learning-showcase&show_owner=true&theme=buefy)](https://github.com/pspiagicw/machine-learning-showcase) -->
 
