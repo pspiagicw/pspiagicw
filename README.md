@@ -75,8 +75,6 @@ Machine Learning Engineer by trade , but I am also a
 [![boombash](https://github-readme-stats.vercel.app/api/pin/?username=pspiagicw&repo=boombash&show_owner=true&theme=buefy)](https://github.com/pspiagicw/boombash)
 
 
-Some of my work may also be found on my personal gitea [instance](https://cloud.pspiagicw.xyz)
-
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pspiagicw&repo=machine-learning-showcase&show_owner=true&theme=buefy)](https://github.com/pspiagicw/machine-learning-showcase) -->
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=pspiagicw&include_all_commits=true&count_private=true&show_icons=true&hide=commits&theme=buefy)](https://github.com/pspiagicw)
