@@ -5,12 +5,11 @@
 </div>
 
 
-<div align="center">
+<!-- <div align="center"> -->
 	
-<img alt="GIF" src="https://raw.githubusercontent.com/pspiagicw/pspiagicw/master/gif3.gif" width="500"/>
+<!-- <img alt="GIF" src="https://raw.githubusercontent.com/pspiagicw/pspiagicw/master/gif3.gif" width="500"/> -->
 
-
-</div>
+<!-- </div> -->
 
 
 <center>
@@ -51,6 +50,7 @@ Machine Learning Engineer by trade , but I am also a
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ### Adores
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -60,17 +60,11 @@ Machine Learning Engineer by trade , but I am also a
 ### Dabbles
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)
 
 ### Hates
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-## Currently Reading
-
-- *Writing a Compiler in Golang*
-- *Engineering a Compiler*
 
 ## _Some of my work_
 
