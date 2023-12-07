@@ -6,12 +6,13 @@
 |_|       |_|            |___/
 
 
- I am pspiagicw, and yes this README is inside a code block, cause I feel text is the best form of communication.
+ I am pspiagicw, and yes this entire README is rendered in ASCII, cause I feel text is the best form of communication.
 
- If you didn't already guess, I like terminals and systems programming. 
- I work as a Compiler Engineer and that's where most of my passion pours into.
+ If you didn't already guess, I like terminals and systems programming.
 
- Some projects, you might find useful (They should be pinned or recommended automatically).
+ I work as a compiler engineer and that's where most of my passion pours into.
+
+ Here are some projects I developed for personal use,  you might find useful (They should be pinned or recommended automatically).
  
  //==========[]=================================================================\\
  || Projects ||                           Description                           ||
@@ -33,5 +34,5 @@
 
  You can contact me on: pspiagicw@gmail.com
  
- Thanks for checking out my profile. Bye!
+ Thanks for checking out my profile.
 ```
