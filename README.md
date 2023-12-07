@@ -1,88 +1,39 @@
-<div align="center">
+```
+ ██████╗ ███████╗██████╗ ██╗ █████╗  ██████╗ ██╗ ██████╗██╗    ██╗
+ ██╔══██╗██╔════╝██╔══██╗██║██╔══██╗██╔════╝ ██║██╔════╝██║    ██║
+ ██████╔╝███████╗██████╔╝██║███████║██║  ███╗██║██║     ██║ █╗ ██║
+ ██╔═══╝ ╚════██║██╔═══╝ ██║██╔══██║██║   ██║██║██║     ██║███╗██║
+ ██║     ███████║██║     ██║██║  ██║╚██████╔╝██║╚██████╗╚███╔███╔╝
+ ╚═╝     ╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝ ╚═════╝ ╚══╝╚══╝
 
-![Conclude](https://img.shields.io/badge/HOLA-I%20AM%20PSPIAGICW-ffb86c?style=for-the-badge)
-	
-</div>
+I am pspiagicw, and yes this README is inside a code block. Cause thats what I like.
 
+I work with terminals and remote servers in my spare time.
 
-<!-- <div align="center"> -->
-	
-<!-- <img alt="GIF" src="https://raw.githubusercontent.com/pspiagicw/pspiagicw/master/gif3.gif" width="500"/> -->
+I am a Machine Learning Engineer by academia.
+A Compiler Engineer by profession
+But a hardcore geek by passion.
 
-<!-- </div> -->
+Some projects, you might find useful (They should be pinned or recommended automatically)
 
+gox - A Golang Binary Package Manager (Something akin to npx or pipx but for Golang)
+qemantra - An alternate easy to use CLI frontend to QEMU/KVM
+groom - Yet another Makefile alternative for Golang.
+shog - Serve your blogs over SSH (WIP)
+dotback - Yet another dotfile backup utility.(It's different I swear)
 
-<center>
+You may also find my blog useful or interesting. Just don't expect anything regular
 
-### 
-</center>
+https://itspspiagicw.com
 
-I am a self-taught programmer/coder who enjoys the art of programming a little too much.
+I primarily use Golang, C or Python, and that's what you will find here.
 
-Machine Learning Engineer by trade , but I am also a
+I also have a collection of compilers/interpreters I work on for learning and work purposes. You may find them useful for your learning.
 
-- Low Level/System Programmer
-- Open Source Contributor and Maintainer
-- Linux Geek
-- Technical Writer
+boombash - A LISP interpreter written in Pure Python to transpile to Bash.
+hotshot - A kind of rewrite of boombash.
+jlox - A compiler/interpreter rewrite of the one written in `Crafting Interpreter`
+uranus - A compiler/interpreter imlementation of the one in `Crafting a Interprter/Compiler in Go`
 
-## When I am not coding...
-- Learning Spanish
-- Mooning over Emacs
-- Linux Gaming
-- Socializing
-- Reading Books
-
-## But when I am..
-
-### Uses
-
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
-![Pop! OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Gentoo](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
-###  Loves
-
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-### Adores
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-### Dabbles
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)
-
-### Hates
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-## _Some of my work_
-
-</br>
-
-[![qemantra](https://github-readme-stats.vercel.app/api/pin/?username=pspiagicw&repo=qemantra&show_owner=true&theme=buefy)](https://github.com/pspiagicw/qemantra)
-[![groom](https://github-readme-stats.vercel.app/api/pin/?username=golang-groom&repo=groom&show_owner=true&theme=buefy)](https://github.com/pspiagicw/qemantra)
-[![boombash](https://github-readme-stats.vercel.app/api/pin/?username=pspiagicw&repo=boombash&show_owner=true&theme=buefy)](https://github.com/pspiagicw/boombash)
-
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pspiagicw&repo=machine-learning-showcase&show_owner=true&theme=buefy)](https://github.com/pspiagicw/machine-learning-showcase) -->
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=pspiagicw&include_all_commits=true&count_private=true&show_icons=true&hide=commits&theme=buefy)](https://github.com/pspiagicw)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pspiagicw&layout=compact&hide=html,css,Jupyter%20Notebook&langs_count=5&theme=buefy)](https://github.com/pspiagicw/github-readme-stats)
-
-<div align="center">
-
-![Conclude](https://img.shields.io/badge/README-pspiagicw-ffb86c?style=for-the-badge)
-</div>
-
+Thanks for checking out my profile. Bye!
+```
