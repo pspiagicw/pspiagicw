@@ -28,7 +28,7 @@
  You may also find my blog useful or interesting. Just don't expect anything regular
  
  ========================== 
-  https://itspspiagicw.com  
+  https://falconite.xyz  
  ========================== 
  
  I primarily use Golang, C or Python, and that's what you will find here.
