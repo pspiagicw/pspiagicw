@@ -6,12 +6,12 @@
 |_|       |_|            |___/
 
 
- I am pspiagicw, and yes this README is inside a code block, cause I feel text is the best form of communication.
+ I am pspiagicw, AND YES THIS ENTIRE PROFILE IS INSIDE A CODE BLOCK.
 
  If you didn't already guess, I like terminals and systems programming. 
  I work as a Compiler Engineer and that's where most of my passion pours into.
 
- Some projects, you might find useful (They should be pinned or recommended automatically).
+ Some projects, you might find useful. (They should be pinned or recommended automatically).
  
  //==========[]=================================================================\\
  || Projects ||                           Description                           ||
@@ -33,5 +33,18 @@
 
  You can contact me on: pspiagicw@gmail.com
  
- Thanks for checking out my profile. Bye!
+ Thanks for checking out my profile. 
+
+        ,_---~~~~~----._         
+  _,,_,*^____      _____``*g*\"*, 
+ / __/ /'     ^.  /      \ ^@q   f 
+[  @f | @))    |  | @))   l  0 _/  
+ \`/   \~____ / __ \_____/    \   
+  |           _l__l_           I   
+  }          [______]           I  
+  ]            | | |            |  
+  ]             ~ ~             |  
+  |                            |   
+   |                           |   
+
 ```
