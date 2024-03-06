@@ -10,7 +10,7 @@
 
  If you didn't already guess, I like terminals and systems programming.
 
- I work as a compiler engineer and that's where most of my passion pours into.
+ I work as a Compiler Engineer and that's where most of my passion pours into.
 
  Here are some projects I developed for personal use, you might find useful.
 
