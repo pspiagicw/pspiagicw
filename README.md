@@ -8,11 +8,13 @@
 
  I am pspiagicw, AND YES THIS ENTIRE PROFILE IS INSIDE A CODE BLOCK.
 
- If you didn't already guess, I like terminals and systems programming. 
- I work as a Compiler Engineer and that's where most of my passion pours into.
+ If you didn't already guess, I like terminals and systems programming.
 
- Some projects, you might find useful. (They should be pinned or recommended automatically).
- 
+ I work as a compiler engineer and that's where most of my passion pours into.
+
+ Here are some projects I developed for personal use, you might find useful.
+
+ (They should be pinned or recommended automatically).
  //==========[]=================================================================\\
  || Projects ||                           Description                           ||
  |]==========[]=================================================================[|
