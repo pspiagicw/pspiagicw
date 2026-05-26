@@ -15,17 +15,31 @@
   │  Primarily writes in:  Golang  ·  C  ·  Python                         │
   └──────────────────────────────────────────────────────────────────────────┘
 
-  ~$ ls ./projects/
-  ╔══════════════╦═════════════════════════════════════════════════════════════╗
-  ║   project    ║   description                                              ║
-  ╠══════════════╬═════════════════════════════════════════════════════════════╣
-  ║  gox         ║  Golang binary package manager (like pipx or npx)         ║
-  ║  qemantra    ║  Easy CLI frontend to KVM/QEMU                            ║
-  ║  groom       ║  Yet another Makefile alternative for Golang              ║
-  ║  shog        ║  Serve your blogs over SSH!                               ║
-  ║  dotback     ║  Dotfile backup utility (it's different, I swear)         ║
-  ╚══════════════╩═════════════════════════════════════════════════════════════╝
-  (they should be pinned below, if GitHub cooperates)
+  ~$ ls ./projects/featured/
+
+  ╔═[ hotshot ]════════════════════════════════════════════════════════════════╗
+  ║  A LISP interpreter inspired by Bash                                      ║
+  ║  >> github.com/pspiagicw/hotshot                                          ║
+  ╚════════════════════════════════════════════════════════════════════════════╝
+
+  ╔═[ fener ]══════════════════════════════════════════════════════════════════╗
+  ║  Statically typed language inspired by Lua, with classes                  ║
+  ║  >> github.com/pspiagicw/fener                                            ║
+  ╚════════════════════════════════════════════════════════════════════════════╝
+
+  ╔═[ fenc ]═══════════════════════════════════════════════════════════════════╗
+  ║  Bytecode compiler and VM runtime                                         ║
+  ║  >> github.com/pspiagicw/fenc                                             ║
+  ╚════════════════════════════════════════════════════════════════════════════╝
+
+  ~$ ls ./projects/other/
+  ╔══════════════╦═════════════════════════════════════╦══════════════════════════════════╗
+  ║   project    ║   description                       ║   url                            ║
+  ╠══════════════╬═════════════════════════════════════╬══════════════════════════════════╣
+  ║  sinister    ║  YouTube feed tracker               ║  github.com/pspiagicw/sinister   ║
+  ║  shog        ║  Serve your blogs over SSH!         ║  github.com/pspiagicw/shog       ║
+  ║  dotback     ║  Dotfile backup utility             ║  github.com/pspiagicw/dotback    ║
+  ╚══════════════╩═════════════════════════════════════╩══════════════════════════════════╝
 
   ~$ open ./blog.url
   ╔════════════════════════════════╗
