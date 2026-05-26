@@ -6,35 +6,35 @@
 |_|       |_|            |___/
 
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║   YES, THIS ENTIRE PROFILE IS INSIDE A CODE BLOCK. YOU'VE BEEN WARNED.    ║
+║   YES, THIS ENTIRE PROFILE IS INSIDE A CODE BLOCK. YOU'VE BEEN WARNED.       ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
   ~$ whoami
   ┌──────────────────────────────────────────────────────────────────────────┐
   │  Compiler Engineer. Terminal obsessed. Systems programming enthusiast.   │
-  │  Primarily writes in:  Golang  ·  C  ·  Python                         │
+  │  Primarily writes in:  Golang  ·  C  ·  Python                           │
   └──────────────────────────────────────────────────────────────────────────┘
 
   ~$ ls ./projects/featured/
 
   ╔═[ hotshot ]════════════════════════════════════════════════════════════════╗
-  ║  A LISP interpreter inspired by Bash                                      ║
-  ║  >> github.com/pspiagicw/hotshot                                          ║
+  ║  A LISP interpreter + compiler inspired by Bash                            ║
+  ║  >> github.com/pspiagicw/hotshot                                           ║
   ╚════════════════════════════════════════════════════════════════════════════╝
 
   ╔═[ fener ]══════════════════════════════════════════════════════════════════╗
-  ║  A language inspired by Lua                                               ║
-  ║  >> github.com/pspiagicw/fener                                            ║
+  ║  A compiled language inspired by Lua                                       ║
+  ║  >> github.com/pspiagicw/fener                                             ║
   ╚════════════════════════════════════════════════════════════════════════════╝
 
   ╔═[ fenc ]═══════════════════════════════════════════════════════════════════╗
-  ║  Bytecode compiler and VM runtime                                         ║
-  ║  >> github.com/pspiagicw/fenc                                             ║
+  ║  Bytecode compiler and VM runtime                                          ║
+  ║  >> github.com/pspiagicw/fenc                                              ║
   ╚════════════════════════════════════════════════════════════════════════════╝
 
   ╔═[ tremor ]═════════════════════════════════════════════════════════════════╗
-  ║  Typed language inspired by Python and Lua                                ║
-  ║  >> github.com/pspiagicw/tremor                                           ║
+  ║  Python with static types                                                  ║
+  ║  >> github.com/pspiagicw/tremor                                            ║
   ╚════════════════════════════════════════════════════════════════════════════╝
 
   ~$ ls ./projects/other/
