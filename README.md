@@ -5,48 +5,50 @@
 | .__/|___/ .__/|_|\__,_|\__, |_|\___| \_/\_/
 |_|       |_|            |___/
 
+╔══════════════════════════════════════════════════════════════════════════════╗
+║   YES, THIS ENTIRE PROFILE IS INSIDE A CODE BLOCK. YOU'VE BEEN WARNED.    ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 
- I am pspiagicw, AND YES THIS ENTIRE PROFILE IS INSIDE A CODE BLOCK.
+  ~$ whoami
+  ┌──────────────────────────────────────────────────────────────────────────┐
+  │  Compiler Engineer. Terminal obsessed. Systems programming enthusiast.   │
+  │  Primarily writes in:  Golang  ·  C  ·  Python                         │
+  └──────────────────────────────────────────────────────────────────────────┘
 
- If you didn't already guess, I like terminals and systems programming.
+  ~$ ls ./projects/
+  ╔══════════════╦═════════════════════════════════════════════════════════════╗
+  ║   project    ║   description                                              ║
+  ╠══════════════╬═════════════════════════════════════════════════════════════╣
+  ║  gox         ║  Golang binary package manager (like pipx or npx)         ║
+  ║  qemantra    ║  Easy CLI frontend to KVM/QEMU                            ║
+  ║  groom       ║  Yet another Makefile alternative for Golang              ║
+  ║  shog        ║  Serve your blogs over SSH!                               ║
+  ║  dotback     ║  Dotfile backup utility (it's different, I swear)         ║
+  ╚══════════════╩═════════════════════════════════════════════════════════════╝
+  (they should be pinned below, if GitHub cooperates)
 
- I work as a Compiler Engineer and that's where most of my passion pours into.
+  ~$ open ./blog.url
+  ╔════════════════════════════════╗
+  ║  >>  https://falconite.xyz     ║
+  ║  >>  Updated: irregularly      ║
+  ╚════════════════════════════════╝
 
- Here are some projects I developed for personal use, you might find useful.
+  ~$ cat ./contact.txt
+  >>  pspiagicw@gmail.com
 
- (They should be pinned or recommended automatically).
- //==========[]=================================================================\\
- || Projects ||                           Description                           ||
- |]==========[]=================================================================[|
- || gox      || A Golang binary package manager (Something akin to pipx or npx) ||
- || qemantra || An alternative easy to use CLI frontend to KVM/QVM              ||
- || groom    || Yet another Makefile alternative for Golang                     ||
- || shog     || Serve your blogs over SSH!                                      ||
- || dotback  || Yet another dotfile backup utility (It's different I swear)     ||
- \\==========[]=================================================================//
+  ~$ sudo shutdown -h now
+  [ OK ] Thanks for visiting. Goodbye.
 
- You may also find my blog useful or interesting. Just don't expect anything regular
- 
- ========================== 
-  https://falconite.xyz  
- ========================== 
- 
- I primarily use Golang, C or Python, and that's what you will find here.
-
- You can contact me on: pspiagicw@gmail.com
- 
- Thanks for checking out my profile. 
-
-        ,_---~~~~~----._         
-  _,,_,*^____      _____``*g*\"*, 
- / __/ /'     ^.  /      \ ^@q   f 
-[  @f | @))    |  | @))   l  0 _/  
- \`/   \~____ / __ \_____/    \   
-  |           _l__l_           I   
-  }          [______]           I  
-  ]            | | |            |  
-  ]             ~ ~             |  
-  |                            |   
-   |                           |   
+        ,_---~~~~~----._
+  _,,_,*^____      _____``*g*\"*,
+ / __/ /'     ^.  /      \ ^@q   f
+[  @f | @))    |  | @))   l  0 _/
+ \`/   \~____ / __ \_____/    \
+  |           _l__l_           I
+  }          [______]           I
+  ]            | | |            |
+  ]             ~ ~             |
+  |                            |
+   |                           |
 
 ```
